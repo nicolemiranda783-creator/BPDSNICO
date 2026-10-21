@@ -102,8 +102,8 @@ Visita en tu navegador web la siguiente dirección:
 Proyecto desarrollado por:
 
 * 👤 **Camilo Maduro** - Desarrollador / Liderazgo - [@CamiloMaduro](https://github.com/CamiloMaduro)
-* 👤 Nombre del Integrante 2 - Desarrollador - [@usuario2](https://github.com/usuario2)
-* 👤 Nombre del Integrante 3 - Desarrollador - [@usuario3](https://github.com/usuario3)
+* 👤 **Nicole Miranda** - Desarrollador - [@nicolemiranda783-creator](https://github.com/nicolemiranda783-creator)
+* 👤 
 
 ---
 
