@@ -9,7 +9,7 @@ Aplicación web moderna e intuitiva para la gestión eficiente de tareas (*Todo 
 
 ---
 
-## 📸 Vista Previa de la Aplicación
+## 📸 Vista Previa de la Aplicación:
 
 Las tareas se guardan en `localStorage` en el navegador. No se necesita una base de datos ni almacenamiento en el servidor para desplegar la aplicación. Los datos son propios de cada navegador y origen: no se sincronizan entre usuarios o dispositivos y no se transfieren automáticamente desde el antiguo archivo `data/todos.json`.
 
